@@ -1,0 +1,590 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 11:48:13 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 18352@LAPTOP-40044FA4
+
+[2025-02-26 11:48:13 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 11:48:13 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 11:48:13 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 11:48:13 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 11:48:13 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 11:51:19 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 6588@LAPTOP-40044FA4
+
+[2025-02-26 11:51:19 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 11:51:19 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 11:51:19 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 11:51:19 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 11:51:19 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 11:52:54 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 1960@LAPTOP-40044FA4
+
+[2025-02-26 11:52:54 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 11:52:54 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 11:52:54 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 11:52:54 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 11:52:54 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 11:53:20 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 13620@LAPTOP-40044FA4
+
+[2025-02-26 11:53:20 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 11:53:20 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 11:53:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 11:53:20 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 11:53:20 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 11:54:19 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 14356@LAPTOP-40044FA4
+
+[2025-02-26 11:54:19 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 11:54:19 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 11:54:19 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 11:54:19 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 11:54:19 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 11:55:35 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 17156@LAPTOP-40044FA4
+
+[2025-02-26 11:55:35 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 11:55:35 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 11:55:35 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 11:55:35 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 11:55:35 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-02-26 11:55:46 #7 type.registry] 
+New type java.util.Vector<domain.RideBooked>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 11:59:02 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' has been recovered (tr. 17-18)
+
+[2025-02-26 11:59:02 #2 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 15192@LAPTOP-40044FA4
+
+[2025-02-26 11:59:02 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 11:59:02 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 11:59:02 #5 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 11:59:02 #6 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 11:59:02 #7 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 12:11:59 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' has been recovered (tr. 19-19)
+
+[2025-02-26 12:11:59 #2 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 9624@LAPTOP-40044FA4
+
+[2025-02-26 12:12:00 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 12:12:00 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 12:12:00 #5 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 12:12:00 #6 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 12:12:00 #7 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 12:13:10 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 12816@LAPTOP-40044FA4
+
+[2025-02-26 12:13:10 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 12:13:10 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 12:13:10 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 12:13:10 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 12:13:10 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 12:16:15 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' has been recovered (tr. 20-21)
+
+[2025-02-26 12:16:16 #2 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 16004@LAPTOP-40044FA4
+
+[2025-02-26 12:16:16 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 12:16:16 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 12:16:16 #5 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 12:16:16 #6 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 12:16:16 #7 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 12:19:16 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 15676@LAPTOP-40044FA4
+
+[2025-02-26 12:19:16 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 12:19:16 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 12:19:16 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 12:19:16 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 12:19:16 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 12:24:52 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 8428@LAPTOP-40044FA4
+
+[2025-02-26 12:24:53 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 12:24:53 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 12:24:53 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 12:24:53 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 12:24:53 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 13:05:21 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 15800@LAPTOP-40044FA4
+
+[2025-02-26 13:05:21 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 13:05:21 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 13:05:21 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 13:05:21 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 13:05:21 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 13:05:53 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' has been recovered (tr. 22-22)
+
+[2025-02-26 13:05:53 #2 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 1496@LAPTOP-40044FA4
+
+[2025-02-26 13:05:54 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 13:05:54 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 13:05:54 #5 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 13:05:54 #6 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 13:05:54 #7 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 13:09:35 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 17032@LAPTOP-40044FA4
+
+[2025-02-26 13:09:36 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 13:09:36 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 13:09:36 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 13:09:36 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 13:09:36 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 13:21:22 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 16488@LAPTOP-40044FA4
+
+[2025-02-26 13:21:23 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 13:21:23 #3 type.registry] 
+New type domain.Car
+
+[2025-02-26 13:21:23 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 13:21:23 #5 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 13:21:23 #6 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 13:21:23 #7 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 13:33:49 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' has been recovered (tr. 23-23)
+
+[2025-02-26 13:33:49 #2 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 9228@LAPTOP-40044FA4
+
+[2025-02-26 13:33:49 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 13:33:49 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 13:33:49 #5 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 13:33:49 #6 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 13:33:49 #7 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-02-26 13:33:56 #8 type.registry] 
+New type java.util.Vector<domain.Car>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 13:34:32 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' has been recovered (tr. 24-24)
+
+[2025-02-26 13:34:33 #2 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 5680@LAPTOP-40044FA4
+
+[2025-02-26 13:34:34 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 13:34:34 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 13:34:34 #5 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 13:34:34 #6 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 13:34:34 #7 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 13:36:27 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 17644@LAPTOP-40044FA4
+
+[2025-02-26 13:36:27 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 13:36:27 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 13:36:27 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 13:36:27 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 13:36:27 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 13:37:46 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 7456@LAPTOP-40044FA4
+
+[2025-02-26 13:37:46 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 13:37:46 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 13:37:46 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 13:37:46 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 13:37:46 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 13:43:40 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 13772@LAPTOP-40044FA4
+
+[2025-02-26 13:43:40 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 13:43:40 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 13:43:40 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 13:43:40 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 13:43:40 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 13:44:58 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' has been recovered (tr. 25-25)
+
+[2025-02-26 13:44:58 #2 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 11140@LAPTOP-40044FA4
+
+[2025-02-26 13:44:58 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 13:44:58 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 13:44:58 #5 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 13:44:58 #6 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 13:44:58 #7 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 16:11:15 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 32@LAPTOP-40044FA4
+
+[2025-02-26 16:11:15 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 16:11:15 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 16:11:15 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 16:11:15 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 16:11:15 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 16:20:28 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 15932@LAPTOP-40044FA4
+
+[2025-02-26 16:20:28 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 16:20:28 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 16:20:28 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 16:20:28 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 16:20:28 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 16:22:48 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 14968@LAPTOP-40044FA4
+
+[2025-02-26 16:22:48 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 16:22:48 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 16:22:48 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 16:22:48 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 16:22:48 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 17:02:51 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 12340@LAPTOP-40044FA4
+
+[2025-02-26 17:02:51 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 17:02:51 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 17:02:51 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 17:02:51 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 17:02:51 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 17:03:34 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 17276@LAPTOP-40044FA4
+
+[2025-02-26 17:03:34 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 17:03:34 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 17:03:34 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 17:03:34 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 17:03:34 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-26 17:05:20 #1 store] 
+Database 'C:\Users\jmaru\git\Rides24\src\main\resources\rides.temp' is opened by 9228@LAPTOP-40044FA4
+
+[2025-02-26 17:05:20 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-26 17:05:20 #3 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-26 17:05:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-26 17:05:20 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-02-26 17:05:20 #6 type] 
+Type domain.RideBooked is not enhanced.
+

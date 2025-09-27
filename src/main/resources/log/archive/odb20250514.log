@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-14 17:24:53 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_3_J\src\main\resources\rides.temp' is opened by 55444@DESKTOP-D7GP777
+
+[2025-05-14 17:24:53 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-05-14 17:24:53 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-05-14 17:24:54 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-14 17:24:54 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-05-14 17:24:54 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-14 17:24:54 #7 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-05-14 17:24:54 #8 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-05-14 17:24:54 #9 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-05-14 17:24:54 #10 type] 
+Type domain.Alerta is not enhanced.
+

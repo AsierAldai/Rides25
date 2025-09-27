@@ -1,0 +1,439 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 18:25:30 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 188432@DESKTOP-D7GP777
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 18:25:47 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 164928@DESKTOP-D7GP777
+
+[2025-04-07 18:25:52 #2 type.registry] 
+New type domain.User
+
+[2025-04-07 18:25:52 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 18:25:52 #4 type.registry] 
+New type domain.Mugimenduak
+
+[2025-04-07 18:25:52 #5 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 18:49:32 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 199744@DESKTOP-D7GP777
+
+[2025-04-07 18:49:32 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 18:49:32 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 18:50:09 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 198304@DESKTOP-D7GP777
+
+[2025-04-07 18:50:09 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 18:50:09 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 18:50:14 #4 type.registry] 
+New type domain.Passenger
+
+[2025-04-07 18:50:14 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 18:50:14 #6 type.registry] 
+New type domain.RideBooked
+
+[2025-04-07 18:50:14 #7 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 18:50:14 #8 type.registry] 
+New type domain.Ride
+
+[2025-04-07 18:50:14 #9 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 18:50:14 #10 type.registry] 
+New type domain.Driver
+
+[2025-04-07 18:50:14 #11 type.registry] 
+New type domain.Car
+
+[2025-04-07 18:50:14 #12 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 18:50:14 #13 type] 
+Type domain.Car is not enhanced.
+
+[2025-04-07 18:50:14 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-04-07 18:50:14 #15 type.registry] 
+New type java.util.Vector<domain.RideBooked>
+
+[2025-04-07 18:50:14 #16 type.registry] 
+New type java.util.Vector<domain.Mugimenduak>
+
+[2025-04-07 18:50:18 #17 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-04-07 18:50:18 #18 type.registry] 
+New type java.util.Vector<domain.Car>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 18:50:27 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' has been recovered (tr. 4-11)
+
+[2025-04-07 18:50:27 #2 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 199884@DESKTOP-D7GP777
+
+[2025-04-07 18:50:27 #3 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 18:50:27 #4 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 18:50:27 #5 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 18:50:27 #6 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 18:50:27 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 18:50:27 #8 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 18:50:27 #9 type] 
+Type domain.Car is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 19:22:39 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 199312@DESKTOP-D7GP777
+
+[2025-04-07 19:22:39 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 19:22:39 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 19:22:39 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 19:22:39 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 19:22:39 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 19:22:39 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 19:22:39 #8 type] 
+Type domain.Car is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 19:25:11 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 199596@DESKTOP-D7GP777
+
+[2025-04-07 19:25:11 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 19:25:11 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 19:25:11 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 19:25:11 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 19:25:11 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 19:25:11 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 19:25:11 #8 type] 
+Type domain.Car is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 19:30:37 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 199060@DESKTOP-D7GP777
+
+[2025-04-07 19:30:37 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 19:30:37 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 19:30:37 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 19:30:37 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 19:30:37 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 19:30:37 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 19:30:37 #8 type] 
+Type domain.Car is not enhanced.
+
+[2025-04-07 19:30:53 #9 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-04-07 19:30:53 #10 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-04-07 19:30:53 #11 type.registry] 
+New type com.objectdb.o.RFV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 19:35:10 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 194344@DESKTOP-D7GP777
+
+[2025-04-07 19:35:10 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 19:35:10 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 19:35:10 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 19:35:10 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 19:35:10 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 19:35:10 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 19:35:10 #8 type] 
+Type domain.Car is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 19:35:15 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 198068@DESKTOP-D7GP777
+
+[2025-04-07 19:35:15 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 19:35:15 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 19:35:15 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 19:35:15 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 19:35:15 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 19:35:15 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 19:35:15 #8 type] 
+Type domain.Car is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 19:36:19 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 195080@DESKTOP-D7GP777
+
+[2025-04-07 19:36:19 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 19:36:19 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 19:36:19 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 19:36:19 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 19:36:19 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 19:36:19 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 19:36:19 #8 type] 
+Type domain.Car is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 19:37:12 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 200608@DESKTOP-D7GP777
+
+[2025-04-07 19:37:12 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 19:37:12 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 19:37:12 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 19:37:12 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 19:37:12 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 19:37:12 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 19:37:12 #8 type] 
+Type domain.Car is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 19:42:17 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 201260@DESKTOP-D7GP777
+
+[2025-04-07 19:42:17 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 19:42:17 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 19:42:17 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 19:42:17 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 19:42:17 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 19:42:17 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 19:42:17 #8 type] 
+Type domain.Car is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 19:42:34 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 200928@DESKTOP-D7GP777
+
+[2025-04-07 19:42:34 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 19:42:34 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 19:42:34 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 19:42:34 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 19:42:34 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 19:42:34 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 19:42:34 #8 type] 
+Type domain.Car is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 20:00:22 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 200720@DESKTOP-D7GP777
+
+[2025-04-07 20:00:22 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 20:00:22 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 20:00:22 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 20:00:22 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 20:00:22 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 20:00:22 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 20:00:22 #8 type] 
+Type domain.Car is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 20:05:40 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 201280@DESKTOP-D7GP777
+
+[2025-04-07 20:05:41 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 20:05:41 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 20:05:41 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 20:05:41 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 20:05:41 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 20:05:41 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 20:05:41 #8 type] 
+Type domain.Car is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-07 20:11:25 #1 store] 
+Database 'D:\ASIER\LANAK\Uni\2.Maila\SI\Proiektuak\Rides24_2_Asier_PostLabo\src\main\resources\rides.temp' is opened by 198736@DESKTOP-D7GP777
+
+[2025-04-07 20:11:25 #2 type] 
+Type domain.User is not enhanced.
+
+[2025-04-07 20:11:25 #3 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2025-04-07 20:11:25 #4 type] 
+Type domain.Passenger is not enhanced.
+
+[2025-04-07 20:11:25 #5 type] 
+Type domain.RideBooked is not enhanced.
+
+[2025-04-07 20:11:25 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-07 20:11:25 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-07 20:11:25 #8 type] 
+Type domain.Car is not enhanced.
+

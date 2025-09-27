@@ -1,0 +1,281 @@
+package domain;
+
+import java.io.*;
+import java.util.Date;
+import java.util.List;
+import java.util.Vector;
+
+import javax.persistence.*;
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlID;
+import javax.xml.bind.annotation.XmlIDREF;
+import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
+
+
+@SuppressWarnings("serial")
+@XmlAccessorType(XmlAccessType.FIELD)
+@Entity
+public class Ride implements Serializable {
+	@XmlID
+	@Id 
+	@XmlJavaTypeAdapter(IntegerAdapter.class)
+	@GeneratedValue
+	private Integer rideNumber;
+	private String from;
+	private String to;
+	private int nPlaces;
+	private Date date;
+	private float price;
+	private int rating;
+	private Car car;
+	@XmlIDREF
+	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)
+	private List<RideBooked> bookings=new Vector<RideBooked>();
+	
+	private Driver driver;  
+	
+	public Ride(){
+		super();
+	}
+	
+	public Ride(Integer rideNumber, String from, String to, Date date, int nPlaces, float price, Driver driver) {
+		super();
+		this.rideNumber = rideNumber;
+		this.from = from;
+		this.to = to;
+		this.nPlaces = nPlaces;
+		this.date=date;
+		this.price=price;
+		this.driver = driver;
+		this.rating=-1;
+	}
+
+	
+
+	public Ride(String from, String to,  Date date, int nPlaces, float price, Car car, Driver driver) {
+		super();
+		this.from = from;
+		this.to = to;
+		this.nPlaces = nPlaces;
+		this.date=date;
+		this.price=price;
+		this.car = car;
+		this.driver = driver;
+		this.rating=-1;
+	}
+	
+	/**
+	 * Get the  number of the ride
+	 * 
+	 * @return the ride number
+	 */
+	public Integer getRideNumber() {
+		return rideNumber;
+	}
+
+	
+	/**
+	 * Set the ride number to a ride
+	 * 
+	 * @param ride Number to be set	 */
+	
+	public void setRideNumber(Integer rideNumber) {
+		this.rideNumber = rideNumber;
+	}
+
+
+	/**
+	 * Get the origin  of the ride
+	 * 
+	 * @return the origin location
+	 */
+
+	public String getFrom() {
+		return from;
+	}
+
+
+	/**
+	 * Set the origin of the ride
+	 * 
+	 * @param origin to be set
+	 */	
+	
+	public void setFrom(String origin) {
+		this.from = origin;
+	}
+
+	/**
+	 * Get the destination  of the ride
+	 * 
+	 * @return the destination location
+	 */
+
+	public String getTo() {
+		return to;
+	}
+
+
+	/**
+	 * Set the origin of the ride
+	 * 
+	 * @param destination to be set
+	 */	
+	public void setTo(String destination) {
+		this.to = destination;
+	}
+
+	/**
+	 * Get the free places of the ride
+	 * 
+	 * @return the available places
+	 */
+	
+	/**
+	 * Get the date  of the ride
+	 * 
+	 * @return the ride date 
+	 */
+	public Date getDate() {
+		return date;
+	}
+	/**
+	 * Set the date of the ride
+	 * 
+	 * @param date to be set
+	 */	
+	public void setDate(Date date) {
+		this.date = date;
+	}
+
+	
+	public int getnPlaces() {
+		return nPlaces;
+	}
+
+	/**
+	 * Set the free places of the ride
+	 * 
+	 * @param  nPlaces places to be set
+	 */
+
+	public void setBetMinimum(int nPlaces) {
+		this.nPlaces = nPlaces;
+	}
+
+	/**
+	 * Get the driver associated to the ride
+	 * 
+	 * @return the associated driver
+	 */
+	public Driver getDriver() {
+		return driver;
+	}
+
+	/**
+	 * Set the driver associated to the ride
+	 * 
+	 * @param driver to associate to the ride
+	 */
+	public void setDriver(Driver driver) {
+		this.driver = driver;
+	}
+
+	public float getPrice() {
+		return price;
+	}
+
+	public void setPrice(float price) {
+		this.price = price;
+	}
+
+
+	@Override
+	public String toString(){
+		return from+"/"+to+"/"+date+"/"+driver;  
+	}
+	
+	public RideBooked addBookRide(RideBooked bookride)  {
+        bookings.add(bookride);
+        return bookride;
+	}
+		
+	public List<RideBooked> getBookings() {
+		return bookings;
+	}
+
+	public void setBookings(List<RideBooked> bookings) {
+		this.bookings = bookings;
+	}
+
+	public RideBooked removeBookRide(int bookNumber) {
+		boolean found=false;
+		int index=0;
+		RideBooked r=null;
+		while (!found && index<=this.bookings.size()) {
+			r=this.bookings.get(index);
+			if (r.getBookNumber()==bookNumber) {
+				found=true;
+			}else {
+				index++;
+			}
+		}
+			
+		if (found) {
+			this.bookings.remove(index);
+			return r;
+		} else {
+			return null;
+		}
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (this.getClass() != obj.getClass())
+			return false;
+		Ride other = (Ride) obj;
+		if (this.from.equals(other.from) && this.driver.equals(other.driver) && this.to.equals(other.to) && this.date.equals(other.date)) {
+			return true;
+		}
+		return false;
+	}
+	public void removeAllBookedRides() {
+		
+		this.bookings= new Vector<RideBooked>();
+		
+	}
+
+	public Car getCar() {
+		return car;
+	}
+
+	public void setCar(Car car) {
+		this.car = car;
+	}
+	
+	public void createBook(Driver driver, Passenger pass, int nSeats) {
+		RideBooked rb = new RideBooked(nSeats, this, pass);
+		bookings.add(rb);
+		pass.addBookRide(rb);
+		
+	}
+	
+	public String getEmail() {
+		return driver.getEmail();
+	}
+
+	public int getRating() {
+		return rating;
+	}
+
+	public void setRating(int rating) {
+		this.rating = rating;
+	}
+	
+	
+}
